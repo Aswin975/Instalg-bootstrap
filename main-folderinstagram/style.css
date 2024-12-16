@@ -1,0 +1,46 @@
+.row{
+    height: 100vh;
+}
+
+.col-6{
+    height: 100vh;
+}
+
+.phn1{
+    position: relative;
+    left: 100px;
+}
+
+
+
+.form-class{
+    border: 1px solid black;
+}
+
+
+.insta-text{
+    margin-top: 10px;
+    width: 150px;
+    height: px;
+    
+}
+
+
+
+
+.fb{
+    width: 25px;
+}
+
+.signup-sec{
+    border: 1px solid black;
+    padding-top: 10px;
+}
+
+.btn{
+    width: 370px;
+}
+
+.get-app-box{
+    
+}
